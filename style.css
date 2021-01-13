@@ -1,0 +1,71 @@
+#Inlogarticle {
+  background-color: #c0ccb5;
+  width: 260px;
+  height: 40px;
+  margin: auto;
+
+}
+
+#Inlogknop {
+  width: 70px;
+  height: 40px;
+  margin: auto;
+}
+
+body{
+  background-image: url(afbeelding.png);
+}
+
+header {
+   width: 1000px;
+   height: 200px;
+   float: left;
+   margin: auto;
+}
+
+#picture {
+   width: 100px;
+   height: 250px;
+   float: left;
+}
+
+article {
+   width: 1000px;
+   height: 300px;
+   float: left;
+   margin: auto;
+   clear: both;
+ }
+
+footer {
+ width: 1000px;
+ height: 50px;
+ clear: both;
+ margin: auto;
+}
+
+
+#picturezoeker1 {
+    float: left;
+    clear: both;
+}
+
+#kop {
+  width: 1100px;
+
+}
+
+#picturezoeker2 {
+ float:left;
+ width: 100px
+}
+
+#article {
+  float: left;
+  width: 1000px
+}
+
+#Account {
+  float:left;
+
+}
